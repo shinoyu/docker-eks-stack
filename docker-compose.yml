@@ -1,0 +1,9 @@
+version: "3"
+services:
+  tool:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./.aws:/root/.aws
+      - ./src:/workspace
