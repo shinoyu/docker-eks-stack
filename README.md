@@ -1,2 +1,6 @@
 # docker-eks-stack
-Docker for Amazon Eks
+Docker for Amazon EKS
+
+
+## usage 
+dokcer-compose run --rm tool /bin/bash
