@@ -1,6 +1,9 @@
 # docker-eks-stack
 Docker for Amazon EKS
 
+Terraform + Kubectl + aws cli.
+
+
 ## Explanation
 
 ### src
